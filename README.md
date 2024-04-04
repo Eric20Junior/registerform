@@ -5,7 +5,7 @@
 - This project contains a React component for a sign-up form. The form allows users to create an account by providing their username, email, and password.
 
 # View Live Project
-You can view the live project [Click here](https://registerform.vervel.app/)
+You can view the live project [Click here](https://registerform-green.vercel.app/)
 
 ## Tools & Frameworks Used:
 - Build: ReactJS
