@@ -1,4 +1,4 @@
-![screenshot](./public/registerform.png)
+![screenshot](./public/registerform1.png)
 
 # Sign Up Form
 
