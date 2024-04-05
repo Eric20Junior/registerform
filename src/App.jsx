@@ -84,14 +84,18 @@ function App() {
                 <button type="submit">Join Now</button>
               </div>
 
-              <div className='flex lg:gap-5 justify-center mt-4 text-base px-[2rem] '>
-                <p>Have an Account?  
+              <div className='flex sm:gap-5 justify-center mt-4 text-base px-[2rem] '>
+                <div className='sm:w-[150px]'>
+                  <p>Have an Account?  
                     <span className='text-[#0649da]'> Login</span>
                   </p>
+                </div>
 
-                  <p>Forgot your password?
-                    <span className='text-[#0649da]'> Click here</span>
-                  </p>
+                  <div className='sm:w-[170px]'>
+                    <p>Forgot your password?
+                      <span className='text-[#0649da]'> Click here</span>
+                    </p>
+                  </div>
               </div>
           </form>
         </div>
